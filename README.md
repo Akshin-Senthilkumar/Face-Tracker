@@ -1,7 +1,7 @@
-Overview
+Overview:
 This project demonstrates a real-time face tracking system that uses OpenCV for face detection and Arduino to control servos based on the detected face coordinates. The system captures video from a webcam, detects faces using a Haar Cascade classifier, and sends the coordinates to an Arduino board to adjust servo positions accordingly.
 
-Features
+Features:
 Real-time face detection using OpenCV's Haar Cascade classifier.
 Sends detected face coordinates to Arduino via serial communication.
 Displays video with overlayed face rectangles and a central reference square.
